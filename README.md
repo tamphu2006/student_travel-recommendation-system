@@ -1,16 +1,6 @@
 # Student Travel Recommendation System
 
-Đây là phiên bản thực hành “đục lỗ” từ dự án [Tourism Recommendation System in Central Vietnam](https://github.com/suzhentxt/Tourism-Recommendation-System-in-Central-Vietnam). Các ô `TODO` được giữ lại để học viên tự hoàn thiện; phần tài liệu trong repo tập trung giải thích **vì sao thuật toán hoạt động**, không cung cấp đáp án.
-
-## Quan hệ với repo gốc
-
-Đây là bản học tập được tổ chức lại, không phải một snapshot 1:1 của web app:
-
-- bài tập Stage 2 đưa mùa vào vector cosine 13 chiều, trong khi một phiên bản web có thể dùng cosine 12 chiều rồi lọc theo tháng;
-- bài tập Stage 3 dùng khởi tạo K-Means++ theo xác suất `D²`, còn implementation web có thể dùng một cách khởi tạo tâm khác;
-- dữ liệu/điểm số dùng để chấm bài có thể được giữ riêng thay vì lấy trực tiếp từ file hiển thị của web.
-
-Vì vậy, mục tiêu là hiểu data contract và thuật toán của **notebook đang học**. Không nên coi output của web app là đáp án byte-for-byte cho mọi TODO.
+Các ô `TODO` được giữ lại để học viên tự hoàn thiện; phần tài liệu trong repo tập trung giải thích **vì sao thuật toán hoạt động**, không cung cấp đáp án.
 
 ## Học viên sẽ xây dựng gì?
 
