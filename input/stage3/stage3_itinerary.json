@@ -1,0 +1,131 @@
+[
+  {
+    "profile": "user_1",
+    "n_days": 5,
+    "itinerary": [
+      {
+        "day": 1,
+        "stops": [
+          {
+            "name": "lăng minh mạng",
+            "province": "Huế",
+            "lat": 16.38772,
+            "lng": 107.56825,
+            "cosine_score": 0.6733,
+            "month_match": "neutral"
+          },
+          {
+            "name": "nhà vườn an hiên",
+            "province": "Huế",
+            "lat": 16.4542,
+            "lng": 107.55224,
+            "cosine_score": 0.6821,
+            "month_match": "neutral"
+          },
+          {
+            "name": "đầm chuồn",
+            "province": "Huế",
+            "lat": 16.516259,
+            "lng": 107.643759,
+            "cosine_score": 0.7337,
+            "month_match": "neutral"
+          },
+          {
+            "name": "cầu qua phá tam giang",
+            "province": "Huế",
+            "lat": 16.58219,
+            "lng": 107.5885,
+            "cosine_score": 0.6311,
+            "month_match": "neutral"
+          }
+        ],
+        "legs_km": [
+          7.6,
+          12.0,
+          9.4
+        ],
+        "total_km": 28.9
+      },
+      {
+        "day": 2,
+        "stops": [
+          {
+            "name": "địa đạo vịnh mốc",
+            "province": "Quảng Trị",
+            "lat": 17.07467,
+            "lng": 107.1128,
+            "cosine_score": 0.6295,
+            "month_match": "neutral"
+          },
+          {
+            "name": "mũi trèo",
+            "province": "Quảng Trị",
+            "lat": 17.0892,
+            "lng": 107.1123,
+            "cosine_score": 0.629,
+            "month_match": "neutral"
+          }
+        ],
+        "legs_km": [
+          1.6
+        ],
+        "total_km": 1.6
+      },
+      {
+        "day": 3,
+        "stops": [
+          {
+            "name": "phong nha",
+            "province": "Quảng Bình",
+            "lat": 17.58137,
+            "lng": 106.28308,
+            "cosine_score": 0.6536,
+            "month_match": "neutral"
+          }
+        ],
+        "legs_km": [],
+        "total_km": 0.0
+      },
+      {
+        "day": 4,
+        "stops": [
+          {
+            "name": "hang va",
+            "province": "Quảng Bình",
+            "lat": 17.48947,
+            "lng": 106.2848,
+            "cosine_score": 0.6484,
+            "month_match": "neutral"
+          },
+          {
+            "name": "hang sơn đoòng",
+            "province": "Quảng Bình",
+            "lat": 17.44415,
+            "lng": 106.29358,
+            "cosine_score": 0.6443,
+            "month_match": "neutral"
+          }
+        ],
+        "legs_km": [
+          5.1
+        ],
+        "total_km": 5.1
+      },
+      {
+        "day": 5,
+        "stops": [
+          {
+            "name": "làng cổ bích la",
+            "province": "Quảng Trị",
+            "lat": 16.77685,
+            "lng": 107.18595,
+            "cosine_score": 0.6201,
+            "month_match": "neutral"
+          }
+        ],
+        "legs_km": [],
+        "total_km": 0.0
+      }
+    ]
+  }
+]
