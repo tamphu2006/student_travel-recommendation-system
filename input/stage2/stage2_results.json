@@ -7,61 +7,61 @@
       {
         "place": "đầm chuồn",
         "province": "Huế",
-        "score": 0.7337,
+        "score": 0.8297,
         "month_score": 0.5
       },
       {
-        "place": "nhà vườn an hiên",
+        "place": "biển cửa việt",
+        "province": "Quảng Trị",
+        "score": 0.7023,
+        "month_score": 0.5
+      },
+      {
+        "place": "đảo cồn cỏ",
+        "province": "Quảng Trị",
+        "score": 0.6971,
+        "month_score": 0.5
+      },
+      {
+        "place": "lăng cô",
         "province": "Huế",
-        "score": 0.6821,
-        "month_score": 0.5
-      },
-      {
-        "place": "lăng minh mạng",
-        "province": "Huế",
-        "score": 0.6733,
-        "month_score": 0.5
-      },
-      {
-        "place": "phong nha",
-        "province": "Quảng Bình",
-        "score": 0.6536,
-        "month_score": 0.5
-      },
-      {
-        "place": "hang va",
-        "province": "Quảng Bình",
-        "score": 0.6484,
-        "month_score": 0.5
-      },
-      {
-        "place": "hang sơn đoòng",
-        "province": "Quảng Bình",
-        "score": 0.6443,
-        "month_score": 0.5
-      },
-      {
-        "place": "cầu qua phá tam giang",
-        "province": "Huế",
-        "score": 0.6311,
+        "score": 0.67,
         "month_score": 0.5
       },
       {
         "place": "địa đạo vịnh mốc",
         "province": "Quảng Trị",
-        "score": 0.6295,
+        "score": 0.6698,
+        "month_score": 0.5
+      },
+      {
+        "place": "biển nhật lệ",
+        "province": "Quảng Bình",
+        "score": 0.6633,
         "month_score": 0.5
       },
       {
         "place": "mũi trèo",
         "province": "Quảng Trị",
-        "score": 0.629,
+        "score": 0.6602,
         "month_score": 0.5
       },
       {
-        "place": "làng cổ bích la",
-        "province": "Quảng Trị",
-        "score": 0.6201,
+        "place": "vũng chùa - đảo yến",
+        "province": "Quảng Bình",
+        "score": 0.6488,
+        "month_score": 0.5
+      },
+      {
+        "place": "cầu qua phá tam giang",
+        "province": "Huế",
+        "score": 0.6433,
+        "month_score": 0.5
+      },
+      {
+        "place": "cồn cát quang phú",
+        "province": "Quảng Bình",
+        "score": 0.6432,
         "month_score": 0.5
       }
     ]
